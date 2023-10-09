@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1091426296356",
+    "project_id": "uni-x-53add",
+    "storage_bucket": "uni-x-53add.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091426296356:android:46620f10ff1242aa6aeeb1",
+        "android_client_info": {
+          "package_name": "com.winter.unix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091426296356-rqhcjfft94l0s0g4r9mvdjhe1goekc06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPKlDuko0QO1Ew5g8U2LDSNTtHeTCgUkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091426296356-rqhcjfft94l0s0g4r9mvdjhe1goekc06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
